@@ -20,3 +20,13 @@ https://www.datacamp.com/blog/data-science-in-marketing-customer-churn-rate-pred
 5. Market Basket Analysis
 - Association mining. In other words, a person who buys baby formula is also likely to purchase diaper. However, purchase patterns are not always as obvious.
 - Classic case study: ["beer and diapers"](https://tdwi.org/articles/2016/11/15/beer-and-diapers-impossible-correlation.aspx)
+
+## Algorithms for Marketing
+1. Clustering
+2. Regression Models
+3. Classification
+
+##In this repo, I included all of the Data Science in Marketing projects and case studies I've done thus far: 
+1. Customer Churn Rate Prediction
+2. Marketing Budget and Channel Optimization
+3. Sentiment Analysis
