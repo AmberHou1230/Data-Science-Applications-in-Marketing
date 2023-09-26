@@ -27,7 +27,7 @@ https://www.datacamp.com/blog/data-science-in-marketing-customer-churn-rate-pred
 3. Classification
 
 ##In this repo, I included all of the Data Science in Marketing projects and case studies I've done thus far: 
-1. Build a Collaborative Filtering Recommender System in Python
+1. [Build a Collaborative Filtering Recommender System in Python](https://github.com/AmberHou1230/Data-Science-Applications-in-Marketing/blob/main/Recommender%2BSystems%2Busing%2BCollaborative%2BFiltering%2B_%2BMemory%2Bbased%20(2).ipynb)
 2. Customer Churn Rate Prediction
 3. Marketing Budget and Channel Optimization
 4. Sentiment Analysis
